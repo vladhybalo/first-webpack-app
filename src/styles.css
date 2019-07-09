@@ -1,0 +1,13 @@
+.hello {
+    color: red;
+    /*background: url('me.jpg');*/
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+button {
+    padding: 10px 20px;
+}
